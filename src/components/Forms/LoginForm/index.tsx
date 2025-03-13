@@ -38,7 +38,7 @@ export function LoginForm() {
 
             {/* Password */}
             <div className="w-full flex flex-col gap-3">
-                <p className="text-base text-auth-text">Введите адрес электронной почты</p>
+                <p className="text-base text-auth-text">Введите пароль</p>
                 <input
                     type="password"
                     placeholder="Введите пароль"
