@@ -46,8 +46,10 @@ https://git-scm.com/downloads/win
 ```sh
 git clone https://github.com/grin0leo/my_pj_ed
 ```
-
-
+## Перемещение в нужную директорию 
+```sh
+cd my_pj_ed
+```
 ## Сборка контейнера  
 Перейдите в каталог проекта и выполните команду:  
 ```sh
@@ -60,6 +62,9 @@ docker run -p 3000:3000 my-pj-ed
 ```
 Приложение будет доступно по адресу:  
 [http://localhost:3000/auth/login](http://localhost:3000/auth/login)  
+
+## Чтобы закончить работу проекта
+Ctrl + C (в консоль)
 
 ## Возможные ошибки и их решения  
 
