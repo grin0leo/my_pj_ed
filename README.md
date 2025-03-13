@@ -1,5 +1,5 @@
 
-```markdown
+
 # Docker-контейнер для Next.js проекта
 
 ## Описание  
@@ -15,7 +15,7 @@
 3. Проверьте корректность установки:  
    ```sh
    docker --version
-   ```
+
 
 ### macOS  
 1. Установите **[Docker Desktop](https://www.docker.com/products/docker-desktop/)**.  
@@ -39,8 +39,11 @@
    ```sh
    docker --version
    ```
-## Клонирование c Github 
-ИСПРАВИТЬ 
+## Скачать и настроить git следуя инструкциям
+https://git-scm.com/downloads/win
+
+## Клонирование c Github
+git clone https://github.com/grin0leo/my_pj_ed/edit/main/README.md
 
 ## Сборка контейнера  
 Перейдите в каталог проекта и выполните команду:  
