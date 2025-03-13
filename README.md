@@ -42,8 +42,11 @@
 ## Скачать и настроить git следуя инструкциям
 https://git-scm.com/downloads/win
 
-## Клонирование c Github
-git clone https://github.com/grin0leo/my_pj_ed/edit/main/README.md
+## Клонирование c Github(выберите удобную вам dir и введите данную команду)
+```sh
+git clone https://github.com/grin0leo/my_pj_ed
+```
+
 
 ## Сборка контейнера  
 Перейдите в каталог проекта и выполните команду:  
